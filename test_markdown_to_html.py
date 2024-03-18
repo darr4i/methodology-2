@@ -7,7 +7,7 @@ from markdown_to_html import convert_markdown_to_html
 
 class TestMarkdownToHTMLConverter(unittest.TestCase):
     def setUp(self):
-        self.input_file = "C:\\lab1\\test_input.md"  # Шлях до копії файлу test_input.md
+        self.input_file = "test_input.md"  
         self.output_file = "test_output.html"
 
     def tearDown(self):
