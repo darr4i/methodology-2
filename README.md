@@ -28,8 +28,9 @@ This console application is a Markdown to HTML converter written in Python. Belo
    - To run the test, you need to copy the repository to your machine and write the command python -m unittest test_markdown_to_html.py in the terminal.
 
 ## 8. Links to unexecuted tests:
-    - [click on me](https://github.com/darr4i/methodology-2/actions/runs/8326075934/job/22781018083)
+   - [click on me](https://github.com/darr4i/methodology-2/actions/runs/8326075934/job/22781018083)
+
 
 ## 9. Summary:
-    - I worked with CI GitHub Actions for the first time and I can say that I liked it. I find these tests useful because they helped me to better interact with the GitHub platform and to better understand the 
+   - I worked with CI GitHub Actions for the first time and I can say that I liked it. I find these tests useful because they helped me to better interact with the GitHub platform and to better understand the 
 whole process of passing tests
